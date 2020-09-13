@@ -1,3 +1,6 @@
+# Установка:
+  - установить requirements.txt
+
 # Запуск:
   - python hangman.py
 
